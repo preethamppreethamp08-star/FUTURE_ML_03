@@ -1,0 +1,18 @@
+Job Title: Information Technology / Software Engineer
+
+We are looking for an IT professional / Software Engineer to join our team.
+The candidate should be comfortable working with modern software development
+tools and practices.
+
+Required Skills:
+- Strong proficiency in Python
+- Experience with SQL for querying data
+- Familiarity with Java
+- Experience with Git for version control
+- Working knowledge of REST APIs
+- Familiarity with Docker
+- Understanding of data structures and software design
+
+Nice to Have:
+- Experience with machine learning using Scikit-learn
+- Exposure to cloud platforms
